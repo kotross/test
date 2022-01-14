@@ -4,6 +4,11 @@ google
 
 yandex
 
+/*
+public String secretKey;
+public MyThread(String secretKey) {
+    this.secretKey = secretKey;
+*/
 
 www.sberbank.ru
 sberbank.ru
