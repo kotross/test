@@ -26,3 +26,6 @@ amqp
 mongodb
 elasticsearch
 postgresql
+
+
+axa life insurance
