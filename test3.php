@@ -17,3 +17,16 @@ secret_key = XTxA0WHOKODkiDiu1DImx4IpOZkxnTA5cTODbxgg
 host_base = s3-msk.tinkoff.ru
 host_bucket = %(bucket)s.s3-msk.tinkoff.ru
 */
+
+
+Вот примеры
+
+7213845603:AAFFyxsyId9av6CCDVB1BCAM5hKLby41Dr8
+
+bot7328926902:AAFxl_3ts2L2QbxpqdkGNuA3dcCyg89FaME
+
+оно может быть внутри строки
+
+https://api.telegram.org/bot7328926902:AAFxl_3ts2L2QbxpqdkGNuA3dcCyg89FaME/sendDocument
+
+bot7603336338:AAGnVt_ZSaVCyuksg_KrAOpPJqcSfdmbJaA
